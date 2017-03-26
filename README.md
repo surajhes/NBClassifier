@@ -11,6 +11,6 @@ In this project we are revieweing the reviews of hotels and classifying into 4 t
  
 We use Naive Bayes theorem to construct a NB Model. we build the model using a corpus which is already tagged by a human.
 From the tagged sentenses, we build the NB Classifier. For handling unseen words, we perform Laplace Smoothing by performing 
-add 1 smoothing.
+add 1 smoothing. The accuracy of this model is 0.90
   
 This is written in Python  
